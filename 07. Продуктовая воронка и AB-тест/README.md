@@ -20,4 +20,4 @@
 
 ---
 
-Для отображения графиков plotly: [ссылка на nbviewer.org]()
+Для отображения графиков plotly: [ссылка на nbviewer.org](https://nbviewer.org/github/lonetori/Yandex.Practicum/blob/main/07.%20%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%20%D0%B8%20AB-%D1%82%D0%B5%D1%81%D1%82/ab_and_funnel.ipynb)
